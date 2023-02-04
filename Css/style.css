@@ -36,7 +36,7 @@ button{
 
 .main-header {
 
-    background-image: url('./Assets/images/background-image.png');
+    background-image: url('../Assets/images/background-image.png');
     background-position: 50% 39%;
 
 
